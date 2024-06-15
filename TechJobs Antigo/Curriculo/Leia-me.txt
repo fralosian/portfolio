@@ -1,0 +1,7 @@
+O sistema é bem simples pessoal.
+
+1 - Não é necessario um banco de dados, mas só precisa de suporte a php.
+
+2 - O sistema está praticamente pronto só falta ajustar o arquivo "config.php".
+
+É isso ai pessoal... qualquer coisa entrem em contato pelo e-mail pyds@hotmail.com ou pedro@firedw.com.br
