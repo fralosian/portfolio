@@ -1,2 +1,2 @@
 # portfolio
-Meus projetos pessoais feitos ao decorrer do meu aprendizado
+Projetos pessoais feitos ao decorrer do meu aprendizado
